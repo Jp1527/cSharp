@@ -10,7 +10,7 @@ namespace ConsoleGithub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("77good ");
+            Console.WriteLine("77g76ood ");
         }
     }
 }
